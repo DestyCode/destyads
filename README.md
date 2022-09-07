@@ -1,1 +1,1 @@
-# destyads-footer
+# swalayads-footer
